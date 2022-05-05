@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vaghaniparth&theme=jolly" width="700">
 [![Parth's wakatime stats](https://github-readme-stats-git-dev.bestdingsheng.vercel.app/api/wakatime?username=vaghaniparth&theme=deson&title_color=bd93f9&icon_color=a4ffff&text_color=c264af&bg_color=282a36)](https://github.com/vaghaniparth/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghaniparth&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+[![willianrod's wakatime stats](https://github-readme-stats-git-dev.bestdingsheng.vercel.app/api/wakatime?username=BestDingSheng&theme=deson&title_color=bd93f9&icon_color=a4ffff&text_color=c264af&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
