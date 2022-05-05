@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=vaghaniparth&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Parth" width="700"> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vaghaniparth&theme=jolly" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghaniparth&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
