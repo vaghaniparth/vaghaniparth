@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaghaniparth
-- ![](https://github.com/vaghaniparth/contribution-graph/blob/main/github-contribution-grid-snake.gif)
+- ![](https://github.com/vaghaniparth/contribution-graph/blob/main/github-snake.svg)
 - 👀 I’m interested in 3D/AI Games
 - 🌱 I’m currently learning Deep in Unity
 - 💞️ I’m looking to collaborate on Making Games
