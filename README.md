@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats-git-dev.vaghaniparth.vercel.app/api/wakatime?username=vaghaniparth&theme=deson&title_color=bd93f9&icon_color=a4ffff&text_color=c264af&bg_color=282a36)](https://github.com/vaghaniparth/) -->
 <!-- ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaghaniparth) -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=vaghaniparth) -->
+![Profile Views](https://komarev.com/ghpvc/?username=vaghaniparth)
  
